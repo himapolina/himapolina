@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hima Bindu Polina.
-- 👀 I’m interested in anything that's new and is yet to be explored!
-- 🌱 I’m currently learning Blockchain.
+- 👀 I’m interested in anything that's new or is yet to be explored!
+- 🌱 I’m currently learning Artificial Intelligence, Cloud Computing and Blockchain technologies.
 - 💞️ I’m looking to collaborate on any cool and unique projects.
 - 📫 How to reach me himapolina.hb@gmail.com.
 
